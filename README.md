@@ -2,10 +2,21 @@
 
 > some reading list of categorical,mixed data representation, clustering and anomaly detection
 
+## Review papers
+- Anomaly detection methods for categorical data: A review[J]. Taha A, Hadi A S, ACM Computing Surveys (CSUR), 2019
+
 ## Representation, similarity metrics
 - Embedding-based Representation of Categorical Data by Hierarchical Value Coupling Learning, Songlei Jian, Longbing Cao, Guansong Pang, IJCAI17
 - Unsupervised Coupled Metric Similarity for Non-IID Categorical Data, Jian Songlei and Cao Longbing, TKDE2018
 - CURE: Flexible Categorical Data Representation by Hierarchical Coupling Learning, Jian, Songlei and Cao, Longbing, TKDE2018
+
+## Clustering
+- Categorical data clustering: What similarity measure to recommend?[J]. dos Santos T R L, Zárate L E. Expert Systems with Applications, 2015
+- K-modes clustering algorithm for categorical data[J]. Sharma N, Gaud N. International Journal of Computer Applications, 2015
+- A novel attribute weighting algorithm for clustering high-dimensional categorical data[J]. Bai L, Liang J, Dang C, et al. Pattern Recognition 2011
+- Clicks: Mining subspace clusters in categorical data via k-partite maximal cliques[C]. Zaki M J, Peters M. ICDE2005
+- A fuzzy k-modes algorithm for clustering categorical data[J]. Huang Z, Ng M K. IEEE transactions on Fuzzy Systems, 1999
+- CACTUS—clustering categorical data using summaries[C]. Ganti V, Gehrke J, Ramakrishnan R. KDD1999
 
 ## Anomaly detection
 - Outlier Detection in Complex Categorical Data by Modelling the Feature Value Couplings, Guansong Pang, Longbing Cao, IJCAI2016
