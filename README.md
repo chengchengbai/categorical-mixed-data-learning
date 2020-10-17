@@ -1,6 +1,6 @@
 # Categorical & Mixed Data Learning
 
-> some reading list of categorical, mixed data representation, clustering and anomaly detection
+> Reading list of categorical, mixed data representation, clustering and anomaly detection
 
 ## Review Papers
 - Anomaly detection methods for categorical data: A review[J]. Taha A, Hadi A S, ACM Computing Surveys (CSUR), 2019
